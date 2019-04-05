@@ -1,4 +1,4 @@
-Testing Jenkins on AWS.
+Testing Jenkins on AWS. Automatic builds after each commit. 
 
 Editing settings.
 
