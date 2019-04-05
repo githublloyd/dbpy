@@ -7,7 +7,7 @@ url = 'https://data.smartdublin.ie/cgi-bin/rtpi/realtimebusinformation?stopid=38
 
 json_obj = urllib2.urlopen(url)
 
-data = json.load(json_obj)
+data = json.load(json_obj
 
 print("The date and time is " + data['timestamp'])
 print("Your stop number is " + data['stopid'])
